@@ -1,0 +1,17 @@
+{
+  "HosterName": "Blaine",
+  "ServerName": "BlaineAndDima",
+  "ClusterName": "Blaine Private",
+  "ServerDescription": {
+    "MaxDinoLvl": 180,
+    "Taming": 3,
+    "Experience": 3,
+    "Harvesting": 3,
+    "Breeding": 1,
+    "Other": [
+      "Private TEK server",
+      "No BattlEye",
+      "Mods enabled"
+    ]
+  }
+}
